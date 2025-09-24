@@ -14,17 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Olá, eu sou o Ruanderson!
 
-🎮 Apaixonado por tecnologia, ciência e café ☕  
-🚀 Sempre aprendendo algo novo em programação  
+
+# 👾 Bem-vindo ao meu GitHub!
+
+![Pac-Man](https://github.com/PacMan-Contribution-Graph/pacman-contribution-graph/blob/master/pacman.gif?raw=true)
+
+🎮 Esse é o meu perfil!  
+Aqui você encontra projetos de tecnologia, neurociência e um pouco de diversão.  
+Sinta-se à vontade para explorar! 🚀  
 
 ---
-### 🎯 Minhas estatísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanderson&show_icons=true&theme=radical)
+
+### 🌟 Sobre mim
+- 💻 Desenvolvedor apaixonado por IA e neurotecnologia
+- 🎶 Explorando música e tecnologia para bem-estar
+- 🧠 Curioso sobre como a mente funciona
 
 ---
-### 🎮 Diversão no perfil
-![Pac-Man](https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif)
 
-![Snake animation](https://github.com/ruanderson/ruanderson/blob/output/github-contribution-grid-snake.svg)
+### 📊 Estatísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruandersongabriel&show_icons=true&theme=radical)
+
+---
+
+### 🎲 Pac-Man no meu gráfico de contribuições
+Quer ver algo divertido?  
+👉 [Pac-Man Contribution Graph](https://pacman-contribution-graph.vercel.app)
+
