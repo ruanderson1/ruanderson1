@@ -7,7 +7,7 @@
 
 ## 🌍 Connect with me  
 
-📫 **Email:** [ruandersonfontes@email.com](mailto:ruandersonfontes@email.com)  
+📫 **Email:** [ruandersonfontes@gmail.com](mailto:ruandersonfontes@email.com)  
 💼 **LinkedIn:** [linkedin.com/in/ruanderson-gabriel](https://www.linkedin.com/in/ruanderson-gabriel-033ab6197)  
 💡 **Projects & Ideas:** always open to collaborations!  
 
