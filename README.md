@@ -1,18 +1,15 @@
 # 🌌 Ruanderson Gabriel  
 
-🚀 Explorando o universo dentro da mente através da **tecnologia, IA e neurociência**.  
+🚀 Explorando o universo  através da **tecnologia**.  
 💡 Entusiasta de **Fullstack Development | AI | Neurotech | Data Science**  
-🎯 Criador da **NeuroTech League** e apaixonado por transformar ideias em impacto real.  
 
 ---
 
 ## 🔥 Sobre mim  
 - 🧠 Pesquisa com **EEG + Eye Tracking** para entender atenção e cognição  
-- 🗣️ Desenvolvimento de **chatbots de voz** (Flask + Twilio + AI)  
-- 🎨 Criação de experiências interativas em **Realidade Aumentada (Unity + Vuforia)**  
+- 🗣️ Desenvolvimento de **chatbots** (Flask + Twilio + AI...)  
 - 📊 Trabalho com **Data Science, Pandas e visualização de dados**  
 - ☁️ Experiência em **Firebase, Docker, Deploy e automações**  
-- 🎶 Projeto em andamento: **terapia musical para ansiedade com IA**  
 
 ---
 
@@ -40,26 +37,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque  
-
-🔹 **[EEG + Eye Tracking Analyzer](#)** → Visualização e análise de ondas cerebrais + rastreamento ocular em tempo real.  
-🔹 **[VoiceChat AI](#)** → Chatbot de voz com Twilio, Flask e Google TTS.  
-🔹 **[NeuroTech League](#)** → Liga acadêmica para fomentar inovação em neurotecnologia.  
-🔹 **[Refleex](#)** → Plataforma em desenvolvimento com foco em neurociência aplicada.  
-
----
-
-## 📈 GitHub Stats  
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ruanderson-gabriel&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanderson-gabriel&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌍 Conecte-se comigo  
 
 📫 **Email**: [ruanderson@email.com](mailto:ruanderson@email.com)  
@@ -68,4 +45,4 @@
 
 ---
 
-✨ *“Explorando a mente humana com código e criatividade.”*  
+✨ *“Explorando com código e criatividade.”*  
