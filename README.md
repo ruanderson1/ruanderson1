@@ -60,18 +60,6 @@ Passionate about building intelligent systems that simplify operations, automate
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ruanderson1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanderson1&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌐 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruanderson-gabriel)
