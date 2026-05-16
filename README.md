@@ -62,7 +62,7 @@ Passionate about building intelligent systems that simplify operations, automate
 
 ## 🌐 Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruanderson-gabriel)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ruanderson-gabriel](https://www.linkedin.com/in/ruanderson-gabriel-033ab6197/))
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruanderson1)
 
